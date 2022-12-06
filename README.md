@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Andrius and currently:
+  • I am learning Python, Git, Google Cloud, Cyber Security
+  • I am interested in reading/watching all kind of courses, which will help me moving forward with both carrer and self improving
+  • I am mainly playing Path of Exile, League of Legends and couple other games
+
+Ain't that much happening now, but hopefully I will have some achievement to share here soon!
+
 <!--
 **Virtuozas/Virtuozas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
