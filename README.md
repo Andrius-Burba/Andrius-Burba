@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Andrius and currently:
+I am **Andrius** and currently:
 
   • I am learning **Python, Linux, Git, Google Cloud, Cyber Security**
   
